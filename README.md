@@ -3,7 +3,7 @@ Hey there! This is a simple Java project i made as part of my coding journey. It
 
 ## What it does:
 -Takes your name and age
--Lets yu enter subjects and marks
+-Lets you enter subjects and marks
 Calculate grades based on the marks 
 -Gives a final grade report
 
